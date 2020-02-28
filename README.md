@@ -51,7 +51,7 @@ __Email__ [josh@nerdy.co.nz](mailto:josh@nerdy.co.nz "Josh's Email")
 _I am very comfortable managing both windows and linux server environments._
 
 ## Experience
-<h3>Digital Lead - <small>___Coastgroup___</small><small style="float:right; text-transform: uppercase;">(Feb 2019 - Present)</small></h3>
+<h3>Digital Lead - <span>___Coastgroup___</span><span style="float:right; text-transform: uppercase;">(Feb 2019 - Present)</span></h3>
 Coastgroup is a group of companies with over 250 employees and was originally a client for NERDY through Displayworks. Currently I am the sole programmer for Coastgroup.
 
 I was brought on to continue working on Shredder, an internal job system built for Displayworks. Retrofitting and improving it for use in other companies within the group. Built on __Vue.js__ and __Golang__ I have since integrated with both __Gsuite__ and __MYOB Accountright__ drastically improving the workflow of the account managers within the group.
@@ -64,7 +64,7 @@ __Responsibilities include:__
 - Improving SEO and liaising with Pure SEO to improve digital presence across the group
 - Working closely with designers and other team members on new content
 
-<h3>Contract Developer  - <small>___Pengellys___</small><small style="float:right; text-transform: uppercase;">(Apr 2018 - Present)</small></h3>
+<h3>Contract Developer  - <span>___Pengellys___</span><span style="float:right; text-transform: uppercase;">(Apr 2018 - Present)</span></h3>
 
 Contracting on a weekly basis to Pengellys maintaining and improving their bespoke logistics system built on __.NET__ and __Classic ASP__ with over 20 years worth of custom code that can prove pretty challenging. I work face to face with the client hot coding new ideas and deploying changes daily with a  "iterate fast and release often" approach.
 
@@ -77,7 +77,7 @@ __Noteworthy Features__
 - Mobile Optimized their in house email system - Glassmail
 
 
-<h3>Director - <small>___NERDY___</small><small style="float:right; text-transform: uppercase;">(Nov 2017 - Feb 2019)</small></h3>
+<h3>Director - <span>___NERDY___</span><div style="float:right; text-transform: uppercase;">(Nov 2017 - Feb 2019)</div></h3>
 
 Going it alone. I found a niche in building job/invoicing systems for a small group of clients.
 I set out with NERDY using a completely new tech stack. Building full stack applications using __Vue.js__ with __Golang__, backed by RESTful apis using __Postgres__ and __Redis__ for storage. Applications where hosted on self managed VPS using __Dokku__ and __Git__ deployments.
@@ -95,7 +95,7 @@ Lastly, I launched [Relapse](https://relapse.nerdy.co.nz "Keeping track of your 
 just became a cinch") the time tracking application for OSX using __Node.js__, __Electron__, __Vue.js__ and __HTML5 canvas__. 
 
 
-<h3>Senior Developer - <small>___beweb___</small><small style="float:right; text-transform: uppercase;">(Oct 2013 - Nov 2017)</small></h3>
+<h3>Senior Developer - <span><b>beweb</b></span><span style="float:right; text-transform: uppercase;">(Oct 2013 - Nov 2017)</span></h3>
 A bespoke development company specializing in bespoke websites built using __.NET__ and backed by __SQL server__.
 I started as a Junior developer and grew through the ranks. I took on every aspect that comes with a small development company.
 
