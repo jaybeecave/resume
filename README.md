@@ -77,7 +77,7 @@ __Noteworthy Features__
 - Task and Corrective Action Report system
 - Interactive KPI reports
 - Client Area including an Interactive world map showing imports and exports and detailed product information.
-- A document management system
+- A web-based document management system
 - Mobile Optimized their in house email system - Glassmail
 
 
@@ -85,7 +85,9 @@ __Noteworthy Features__
 <h4>(Nov 2017 - Feb 2019)</h4>
 
 Going it alone. I found a niche in building job/invoicing systems for a small group of clients.
-I set out with NERDY using a completely new tech stack. Building full stack applications using __Vue.js__ with __Golang__, backed by RESTful apis using __Postgres__ and __Redis__ for storage. Applications where hosted on self managed VPS using __Dokku__ and __Git__ deployments.
+I set out with NERDY using a completely new tech stack. Building full stack applications using __Vue.js__ with __Golang__, backed by RESTful apis using __Postgres__ and __Redis__ for storage. 
+
+Applications are hosted on self managed VPS using __Dokku__ and __Git__ deployments.
 
 __Lessons__
 - Completely new tech stack
