@@ -87,7 +87,7 @@ __Noteworthy Features__
 Going it alone. I found a niche in building job/invoicing systems for a small group of clients.
 I set out with NERDY using a completely new tech stack. Building full stack applications using __Vue.js__ with __Golang__, backed by RESTful apis using __Postgres__ and __Redis__ for storage. 
 
-Applications are hosted on self managed VPS using __Dokku__ and __Git__ deployments.
+Applications are hosted on self managed VPS using __Dokku__ and __Git__ continuous deployments.
 
 __Lessons__
 - Completely new tech stack
