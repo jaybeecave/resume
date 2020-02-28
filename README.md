@@ -53,7 +53,9 @@ _I am very comfortable managing both windows and linux server environments._
 ## Experience
 <h3>Digital Lead - Coastgroup</h3>
 <h4>(2019 - Present)</h4>
-Coastgroup is a group of companies with over 250 employees and was originally a client for NERDY through Displayworks. Currently I am the sole programmer for Coastgroup.
+Coastgroup is a group of companies with over 250 employees and was originally a client for NERDY through Displayworks. 
+
+Currently I am the sole programmer for Coastgroup.
 
 I was brought on to continue working on Shredder, an internal job system built for Displayworks. Retrofitting and improving it for use in other companies within the group. Built on __Vue.js__ and __Golang__ I have since integrated with both __Gsuite__ and __MYOB Accountright__ drastically improving the workflow of the account managers within the group.
 
