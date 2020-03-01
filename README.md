@@ -7,7 +7,7 @@
 ![globe](https://user-images.githubusercontent.com/1089671/75620499-8a5e4780-5bee-11ea-9932-aa7c4b775b90.png)&nbsp;[nerdy.co.nz](https://nerdy.co.nz "NERDY's Website")
 
 ## Summary
-A passionate software developer with 7 years of experience in full-stack applications. I have a good experience in both C# and Golang coupled with VueJS on the front end.
+A passionate software developer with 7 years of experience in full-stack applications. I have a good experience in both __C#__ and __Golang__ coupled with __VueJS__ on the front end.
 
 Technical areas of interest where I would like more experience are __DevOps__ and __React__ including __React Native__.
 
