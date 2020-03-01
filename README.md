@@ -28,7 +28,7 @@ __Responsibilities include:__
 - Improving SEO and liaising with Pure SEO to improve digital presence across the group
 - Working closely with designers and other team members on new content
 
-_Currently I am the sole programmer for Coastgroup._
+_Currently I am the sole developer for Coastgroup._
 
 <h3>Contract Developer - Pengellys</h3>
 <h4>(Apr 2018 - Present)</h4>
