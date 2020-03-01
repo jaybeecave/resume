@@ -6,7 +6,7 @@ __Email__ [josh@nerdy.co.nz](mailto:josh@nerdy.co.nz "Josh's Email")
 &bull; __LinkedIn__ [linkedin.com/in/joshuacave](https://linkedin.com/in/joshuacave "Josh's LinkedIn")
 
 ## Summary
-A passionate software developer specializing in full stack applications. I have 7 years experience with a strong technical ability in both C# and Golang along with VueJS on the front end.
+A passionate software developer specializing in full stack applications. I have 7 years experience with a strong technical ability in both C# and Golang, along with VueJS on the front end.
 
 Having worked in contract positions for the last 3 years, I now realize how much I miss working with other developers and like minded people. I am now seeking a new opportunity with a strong team focus that will provide the next big challenge in my career.
 
