@@ -4,6 +4,7 @@ __Email__ [josh@nerdy.co.nz](mailto:josh@nerdy.co.nz "Josh's Email")
 &bull; __Phone__ [0211885232](mailto:0211885232 "Josh's Phone")
 &bull; __Github__ [github.com/nerdynz](https://github.com/nerdynz "NERDY's Github")
 &bull; __LinkedIn__ [linkedin.com/in/joshuacave](https://linkedin.com/in/joshuacave "Josh's LinkedIn")
+&bull; __Website__ [nerdy.co.nz](https://nerdy.co.nz "NERDY's Website")
 
 ## Summary
 A passionate software developer with 7 years experience in full stack applications. I have a good experience in both C# and Golang coupled with VueJS on the front end.
