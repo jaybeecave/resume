@@ -11,7 +11,7 @@ A passionate software developer with 7 years of experience in full-stack applica
 
 Technical areas of interest where I would like to grow are __DevOps__ and __React__ including __React Native__.
 
-Having worked in contract positions for the last 3 years, I now realize how much I miss working with other developers and like-minded people. I am now seeking a new opportunity with a strong team focus that will provide the next big challenge in my career.
+Having worked in contract positions for the last 3 years, I realize how much I miss working with other developers and like-minded people. I am now seeking a new opportunity with a strong team focus that will provide the next big challenge in my career.
 
 ## Experience
 <h3>Digital Lead - Coastgroup</h3>
