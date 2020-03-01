@@ -9,7 +9,7 @@
 ## Summary
 A passionate software developer with 7 years of experience in full-stack applications. I have a good experience in both C# and Golang coupled with VueJS on the front end.
 
-Technical areas of interest are __DevOps__ and __React__ including __React Native__.
+Technical areas of interest where I would like more experience are __DevOps__ and __React__ including __React Native__.
 
 Having worked in contract positions for the last 3 years, I now realize how much I miss working with other developers and like-minded people. I am now seeking a new opportunity with a strong team focus that will provide the next big challenge in my career.
 
