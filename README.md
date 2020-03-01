@@ -13,50 +13,6 @@ Technical areas of interest where I would like more experience are __DevOps__ an
 
 Having worked in contract positions for the last 3 years, I now realize how much I miss working with other developers and like-minded people. I am now seeking a new opportunity with a strong team focus that will provide the next big challenge in my career.
 
-
-## Skillset & Tooling
-<table>
-<tr>
-  <td style="text-align: center;"><span class=""><b>VueJS</b></span></td>
-  <td style="text-align: center;"><span class=""><b>Javascript</b></span></td>
-  <td style="text-align: center;"><span class=""><b>ES6</b></span></td>
-  <td style="text-align: center;"><span class="">HTML5</span></td>
-  <td style="text-align: center;"><span class="">SCSS</span></td>
-  <td style="text-align: center;"><span class="">CSS</span></td>
-
-</tr>
-<tr>
-  <td style="text-align: center;"><span class=""><b>C#</b></span></td>
-  <td style="text-align: center;"><span class=""><b>Golang</b></span></td>
-  <td style="text-align: center;"><span class="">Classic ASP</span></td>
-  <td style="text-align: center;"><span class="">Node.js</span></td>
-  <td style="text-align: center;"><span class="">Ruby</span></td>
-</tr>
-<tr>
-  <td style="text-align: center;"><span class="">Webpack</span></td>
-  <td style="text-align: center;"><span class="">Electron</span></td>
-  <td style="text-align: center;"><span class="">Cordova</span></td>
-</tr>
-<tr>
-  <td style="text-align: center;"><span class="">PostgreSQL</span></td>
-  <td style="text-align: center;"><span class="">MS SQL</span></td>
-  <td style="text-align: center;"><span class="">Redis</span></td>
-</tr>
-<tr>
-  <td style="text-align: center;"><span class=""><b>Dokku</b></span></td>
-  <td style="text-align: center;"><span class="">AWS</span></td>
-  <td style="text-align: center;"><span class="">Docker</span></td>
-  <td style="text-align: center;"><span class="">Google Cloud</span></td>
-  <td style="text-align: center;"><span class="">IIS</span></td>
-</tr>
-<tr>
-  <td style="text-align: center;"><span class=""><b>GIT</b></span></td>
-  <td style="text-align: center;"><span class="">SVN</span></td>
-</tr>
-</table>
-
-_I am comfortable managing both windows and linux server environments._
-
 ## Experience
 <h3>Digital Lead - Coastgroup</h3>
 <h4>(2019 - Present)</h4>
