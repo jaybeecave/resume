@@ -4,7 +4,7 @@
 ![phone](https://user-images.githubusercontent.com/1089671/75619421-67c53200-5be0-11ea-8252-3e2a343f2c7c.png)&nbsp;[0211885232](mailto:0211885232 "Josh's Phone")
 ![github](https://user-images.githubusercontent.com/1089671/75619424-68f65f00-5be0-11ea-8d9a-dfa49aff3106.png)&nbsp;[github.com/nerdynz](https://github.com/nerdynz "NERDY's Github")
 ![linkedin](https://user-images.githubusercontent.com/1089671/75619420-672c9b80-5be0-11ea-9a98-c487afba415a.png)&nbsp;[linkedin.com/in/joshuacave](https://linkedin.com/in/joshuacave "Josh's LinkedIn")
-![nerdy](https://user-images.githubusercontent.com/1089671/75619423-68f65f00-5be0-11ea-846e-2e7bfb04e762.png)&nbsp;[nerdy.co.nz](https://nerdy.co.nz "NERDY's Website")
+![nerdy](https://user-images.githubusercontent.com/1089671/75619474-00f44880-5be1-11ea-9e64-fb5e4f45c9f7.png)&nbsp;[nerdy.co.nz](https://nerdy.co.nz "NERDY's Website")
 
 ## Summary
 A passionate software developer with 7 years experience in full stack applications. I have a good experience in both C# and Golang coupled with VueJS on the front end.
