@@ -1,4 +1,4 @@
-`Please feel free to comment and post feedback in the form of a pull request. Writing CV's aren't up there on my list of skills :)`
+`Please feel free to comment and post feedback as a bug or better yet submit a pull request.` 
 
 # Joshua Cave
 
