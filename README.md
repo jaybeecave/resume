@@ -1,3 +1,5 @@
+`Please feel free to comment and post feedback in the form of a pull request. Writing CV's aren't up there on my list of skills :)`
+
 # Joshua Cave
 
 ![envelope-open](https://user-images.githubusercontent.com/1089671/75619422-685dc880-5be0-11ea-8d3c-702eae7ec782.png)&nbsp;[josh@nerdy.co.nz](mailto:josh@nerdy.co.nz "Josh's Email")
