@@ -7,9 +7,7 @@
 ![globe](https://user-images.githubusercontent.com/1089671/75620499-8a5e4780-5bee-11ea-9932-aa7c4b775b90.png)&nbsp;[nerdy.co.nz](https://nerdy.co.nz "NERDY's Website")
 
 ## Summary
-A passionate software developer with 7 years of experience in full-stack applications. I have a good experience in both __C#__ and __Golang__ coupled with __VueJS__ on the front end.
-
-Technical areas of interest where I would like to grow are __DevOps__ and __React__ including __React Native__.
+A passionate software developer with 7 years of experience in full-stack applications. I have experience in both C# and Golang backend development with sound expertise in VueJS on the front end.
 
 Having worked in contract positions for the last 3 years, I realize how much I miss working with other developers and like-minded people. I am now seeking a new opportunity with a strong team focus that will provide the next big challenge in my career.
 
@@ -18,9 +16,7 @@ Having worked in contract positions for the last 3 years, I realize how much I m
 <h4>(2019 - Present)</h4>
 Coastgroup is a group of companies with over 250 employees and was originally a client of NERDY through Displayworks.
 
-I was brought on to continue work on Shredder, an internal job system I built for Displayworks, retrofitting and improving it for use in other companies within the group. Built on __Vue.js__ and __Golang__ I have since integrated with both __Gsuite__ and __MYOB Accountright__ drastically improving the workflow of the account managers within the group.
-
- I have also been in charge of improving their digital presence and launching new e-commerce sites on __BigCommerce__.
+I was brought on to continue work on Shredder, an internal job system I built for Displayworks, retrofitting and improving it for use in other companies within the group. Built on __Vue.js__ and __Golang__ I have since integrated with both __Gsuite__ and __MYOB Accountright__ drastically improving the workflow of the account managers. I have also been in charge of improving their digital presence and launching new e-commerce sites on __BigCommerce__.
 
 __Responsibilities include:__
 - Working directly with managers of both Exhibition Hire Services and Show Light & Power retrofitting Shredder to suit their more event orientated businesses
@@ -92,7 +88,7 @@ I was voted third highest rated lecturer across all departments at Unitec during
 __Bachelor in Computing Systems__ - Unitec Institute of Technology 2013
 
 __Diploma in Information Technology and Support__ - Unitec Institute of Technology	2010
-- _Gained award for top diploma student_
+- _Gained award for top Diploma student in Information Technology and Support 2010_
 
 __Certificate in Information Technology__ - Unitec Institute of Technology	2009
 
