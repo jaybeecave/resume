@@ -9,9 +9,9 @@
 ![globe](https://user-images.githubusercontent.com/1089671/75620499-8a5e4780-5bee-11ea-9932-aa7c4b775b90.png)&nbsp;[nerdy.co.nz](https://nerdy.co.nz "NERDY's Website")
 
 ## Summary
-A passionate software developer with 7 years of experience in full-stack applications. I have experience in both C# and Golang backend development with sound expertise in VueJS on the front end.
-
+A passionate software developer with 7 years of experience in full-stack applications. Building solutions in both __C#__ and __Golang__ and __VueJS__ on the front-end.
 Having worked in contract positions for the last 3 years, I realize how much I miss working with other developers and like-minded people. I am now seeking a new opportunity with a strong team focus that will provide the next big challenge in my career.
+
 
 ## Experience
 <h3>Digital Lead - Coastgroup</h3>
