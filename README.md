@@ -11,9 +11,9 @@
 A passionate software developer with 7 years of experience in full-stack applications. Having worked in contract positions for the last 3 years, I realize how much I miss working with other developers and like-minded people. I am now seeking a new opportunity with a strong team focus that will provide the next big challenge in my career.
 
 ## Technical Summary
-I always struggle to describe this and prefer to showcase my work in person. A lot of my best work is tucked behind a login. Regardless, here is a overview:
+I always struggle to describe this and prefer to showcase my work in person. A lot of my best work is tucked behind a login. Regardless, here is an overview:
 
-Strong in __VueJS__, keen for more exposure __React__ especially __React Native__. Good handle of __Sass(scss)/CSS__. Routinely use both __C#__ and __Golang__ on the backend. __Postgres__ and __MSSQL__ at a data level with __Redis__ as a cache. __DOKKU__ for deployment. I've also built and Launched both desktop and mobile apps using __Electron__ and __Cordova__ respectively on the Apple App Store.
+Strong in __VueJS__, keen for more exposure __React__ especially __React Native__. Good handle of __Sass(scss)/CSS__. Routinely use both __C#__ and __Golang__ on the backend. __Postgres__ and __MSSQL__ at a data level with __Redis__ as a cache. __DOKKU__ for deployment. I've also built and launched both desktop and mobile apps using __Electron__ and __Cordova__ respectively on the Apple App Store.
 
 I am a strong believer in the right tool for the job and I am always keen to learn something new if it makes business sense.
 
