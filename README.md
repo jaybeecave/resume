@@ -15,7 +15,7 @@ I always struggle to describe this and prefer to showcase my work in person. A l
 
 Strong in __VueJS__, keen for more exposure __React__ especially __React Native__. Good handle of __Sass(scss)/CSS__. Routinely use both __C#__ and __Golang__ on the backend. __Postgres__ and __MSSQL__ at a data level with __Redis__ as a cache. __DOKKU__ for deployment. I've also built and Launched both desktop and mobile apps using __Electron__ and __Cordova__ respectively on the Apple App Store.
 
-I am a strong believer in the right tool for the job and am always keen to learn something new if it makes business sense.
+I am a strong believer in the right tool for the job and I am always keen to learn something new if it makes business sense.
 
 ## Experience
 <h3>Digital Lead - Coastgroup</h3>
