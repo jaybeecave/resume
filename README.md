@@ -16,8 +16,8 @@ A passionate software developer with 8 years of experience in full-stack applica
 <h4>(March 2020 – Current)</h4>
 Working for IQ Hive as a backend developer on a few large projects in an effort to create a turn-key-telco solution which will be used by clients such as Vodafone, Plan-B and Vocus. The projects included integrations with Matrixx OCS, a TCF Number Portability solution, Xero and a SIP Trunking solution via DCOM.
 
-
-<p><b>An overview of some of the microservices below:__</b></p>
+<br />
+<p><b>An overview of some of the microservices below:</b></p>
 
 - Integration with Matrixx Swagger REST API for provisioning Data Plans
 - Integration with Matrixx ActiveMQ for Billing Events and publishing them into BigQuery via cloud tasks.
