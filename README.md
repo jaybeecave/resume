@@ -31,8 +31,8 @@ All services communicated internally via gRPC and using protobuf serialization, 
 
 <h3>Digital Lead - Coastgroup</h3>
 <h4>(2019 - March 2020)</h4>
-Coastgroup is a group of companies with over 250 employees and was originally a client of NERDY through Displayworks.
-<br /><br />
+<p>Coastgroup is a group of companies with over 250 employees and was originally a client of NERDY through Displayworks.<br /></p>
+
 I was brought on to continue work on Shredder, an internal job system I built for Displayworks, retrofitting and improving it for use in other companies within the group. Built on __Vue.js__ and __Golang__ I have since integrated with both __Gsuite__ and __MYOB Accountright__ drastically improving the workflow of the account managers. I have also been in charge of improving their digital presence and launching new e-commerce sites on __BigCommerce__.
 
 __Responsibilities include:__
