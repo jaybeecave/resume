@@ -13,8 +13,9 @@ A passionate software developer with 8 years of experience in full-stack applica
 
 ## Experience
 <h3>Senior Developer - IQ Hive</h3>
-<h4>( March 2020 – Current)</h4>
+<h4>(March 2020 – Current)</h4>
 Working for IQ Hive as a backend developer on a few large projects in an effort to create a turn-key-telco solution which will be used by clients such as Vodafone, Plan-B and Vocus. The projects included integrations with Matrixx OCS, a TCF Number Portability solution, Xero and a SIP Trunking solution via DCOM.
+
 
 __An overview of some of the microservices below:__
 
