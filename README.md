@@ -12,18 +12,18 @@ A passionate software developer with 8 years of experience in full-stack applica
 
 
 ## Experience
-<h3>Digital Lead - Coastgroup</h3>
-<h4>(2019 - March 2020)</h4>
+<h3>Senior Developer - IQ Hive</h3>
+<h4>( March 2020 – Current)</h4>
 Working for IQ Hive as a backend developer on a few large projects in an effort to create a turn-key-telco solution which will be used by clients such as Vodafone, Plan-B and Vocus. The projects included integrations with Matrixx OCS, a TCF Number Portability solution, Xero and a SIP Trunking solution via DCOM.
 
 __An overview of some of the microservices below:__
--Integration with Matrixx Swagger REST API for provisioning Data Plans
--Integration with Matrixx ActiveMQ for Billing Events and publishing them into BigQuery via cloud
-tasks.
--Integration with Xero via swagger with Aggregation of above billing events
--Full workflow and polling solution following the TCF IPMS specification for porting numbers
+
+- Integration with Matrixx Swagger REST API for provisioning Data Plans
+- Integration with Matrixx ActiveMQ for Billing Events and publishing them into BigQuery via cloud tasks.
+- Integration with Xero via swagger with Aggregation of above billing events
+- Full workflow and polling solution following the TCF IPMS specification for porting numbers
 between Service Providers
--REST integration with DCOM API
+- REST integration with DCOM API
 
 All services communicated internally via gRPC and using protobuf serialization, the public facing APIs are exposed via a gRPC to REST proxy which follows an OpenAPI spec.
 
