@@ -8,18 +8,28 @@
 ![globe](https://user-images.githubusercontent.com/1089671/75620499-8a5e4780-5bee-11ea-9932-aa7c4b775b90.png)&nbsp;[nerdy.co.nz](https://nerdy.co.nz "NERDY's Website")
 
 ## Summary
-A passionate software developer with 7 years of experience in full-stack applications. Having worked in contract positions for the last 3 years, I realize how much I miss working with other developers and like-minded people. I am now seeking a new opportunity with a strong team focus that will provide the next big challenge in my career.
+A passionate software developer with 8 years of experience in full-stack applications. Having worked both remotely and in contract positions for the last 3 years, I’ve realized how much I miss working with other developers and like-minded people. I am now seeking a new opportunity with a strong team focus that will provide the next big challenge in my career.
 
-## Technical Summary
-I always struggle to describe this and prefer to showcase my work in person. A lot of my best work is tucked behind a login. Regardless, here is an overview:
-
-Strong in __VueJS__, keen for more exposure __React__ especially __React Native__. Good handle of __Sass(scss)/CSS__. Routinely use both __C#__ and __Golang__ on the backend. __Postgres__ and __MSSQL__ at a data level with __Redis__ as a cache. __DOKKU__ for deployment. I've also built and launched both desktop and mobile apps using __Electron__ and __Cordova__ respectively on the Apple App Store.
-
-I am a strong believer in the right tool for the job and I am always keen to learn something new if it makes business sense.
 
 ## Experience
 <h3>Digital Lead - Coastgroup</h3>
-<h4>(2019 - Present)</h4>
+<h4>(2019 - March 2020)</h4>
+Working for IQ Hive as a backend developer on a few large projects in an effort to create a turn-key-telco solution which will be used by clients such as Vodafone, Plan-B and Vocus. The projects included integrations with Matrixx OCS, a TCF Number Portability solution, Xero and a SIP Trunking solution via DCOM.
+
+__An overview of some of the microservices below:__
+-Integration with Matrixx Swagger REST API for provisioning Data Plans
+-Integration with Matrixx ActiveMQ for Billing Events and publishing them into BigQuery via cloud
+tasks.
+-Integration with Xero via swagger with Aggregation of above billing events
+-Full workflow and polling solution following the TCF IPMS specification for porting numbers
+between Service Providers
+-REST integration with DCOM API
+
+All services communicated internally via gRPC and using protobuf serialization, the public facing APIs are exposed via a gRPC to REST proxy which follows an OpenAPI spec.
+
+
+<h3>Digital Lead - Coastgroup</h3>
+<h4>(2019 - March 2020)</h4>
 Coastgroup is a group of companies with over 250 employees and was originally a client of NERDY through Displayworks.
 
 I was brought on to continue work on Shredder, an internal job system I built for Displayworks, retrofitting and improving it for use in other companies within the group. Built on __Vue.js__ and __Golang__ I have since integrated with both __Gsuite__ and __MYOB Accountright__ drastically improving the workflow of the account managers. I have also been in charge of improving their digital presence and launching new e-commerce sites on __BigCommerce__.
@@ -30,10 +40,9 @@ __Responsibilities include:__
 - Improving SEO and liaising with Pure SEO to improve digital presence across the group
 - Working closely with designers and other team members on new content
 
-_Currently I am the sole developer for Coastgroup._
 
 <h3>Contract Developer - Pengellys</h3>
-<h4>(Apr 2018 - Present)</h4>
+<h4>(Apr 2018 - March 2020)</h4>
 
 Contracting on a weekly basis to Pengellys maintaining and improving their bespoke logistics system built on __.NET__ and __Classic ASP__ - with over 20 years worth of custom code that can prove pretty challenging. I work face to face with the client hot coding new ideas and deploying changes daily with an "iterate fast and release often" approach.
 
@@ -80,8 +89,6 @@ __Responsibilities included:__
 - Code reviews 
 - Maintenance of Codelib (core code library)
 - Quoting / scoping new projects
-
-_I still have a great working relationship with beweb and work on a contract basis._
 
 <h3>Lecturer – Unitec Institute of Technology</h3>
 <h4>(Jan 2013 – Dec 2013)</h4>
