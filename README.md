@@ -14,7 +14,7 @@ A passionate software developer with 8 years of experience in full-stack applica
 ## Experience
 <h3>Senior Developer - IQ Hive</h3>
 <h4>(March 2020 – Current)</h4>
-Working for IQ Hive as a backend developer on a few large projects in an effort to create a turn-key-telco solution which will be used by clients such as Vodafone, Plan-B and Vocus. The projects included integrations with Matrixx OCS, a TCF Number Portability solution, Xero and a SIP Trunking solution via DCOM.<br />
+Working for IQ Hive as a backend developer on a few large projects in an effort to create a turn-key-telco solution which will be used by clients such as Vodafone, Plan-B and Vocus. The projects included integrations with Matrixx OCS, TCF Number Portability, Xero and a SIP Trunking integration via DCOM.<br />
 
 <br />
 <p><b>An overview of some of the microservices below:</b></p>
@@ -23,7 +23,7 @@ Working for IQ Hive as a backend developer on a few large projects in an effort 
 - Integration with Matrixx ActiveMQ for Billing Events and publishing them into BigQuery via cloud tasks.
 - Integration with Xero via swagger with Aggregation of above billing events
 - Full workflow and polling solution following the TCF IPMS specification for porting numbers
-between Service Providers
+between carriers
 - REST integration with DCOM API
 
 All services communicated internally via gRPC and using protobuf serialization, the public facing APIs are exposed via a gRPC to REST proxy which follows an OpenAPI spec.
@@ -45,7 +45,7 @@ __Responsibilities include:__
 <h3>Contract Developer - Pengellys</h3>
 <h4>(Apr 2018 - March 2020)</h4>
 
-Contracting on a weekly basis to Pengellys maintaining and improving their bespoke logistics system built on __.NET__ and __Classic ASP__ - with over 20 years worth of custom code that can prove pretty challenging. I work face to face with the client hot coding new ideas and deploying changes daily with an "iterate fast and release often" approach.
+Contracting on a weekly basis to Pengellys maintaining and improving their bespoke logistics system built on .NET and Classic ASP - with over 20 years worth of custom code that proved pretty challenging. I worked face to face with the client hot coding new ideas and deploying changes daily with an "iterate fast and release often" approach.
 
 __Noteworthy Features:__
 - Health, safety and processes system
