@@ -8,7 +8,12 @@
 ![globe](https://user-images.githubusercontent.com/1089671/75620499-8a5e4780-5bee-11ea-9932-aa7c4b775b90.png)&nbsp;[nerdy.co.nz](https://nerdy.co.nz "NERDY's Website")
 
 ## Summary
-A passionate software developer with 8 years of experience in full-stack applications. Having worked both remotely and in contract positions for the last 3 years, I’ve realized how much I miss working with other developers and like-minded people. I am now seeking a new opportunity with a strong team focus that will provide the next big challenge in my career.
+Currently looking to move back into a more frontend focused development role, having worked solely in the backend for the past year. I am missing that creative aspect of coding and being able to refresh the page and see progress come to life.
+<br />
+I bring 8 years of experience in full-stack applications, ranging from monolithic .Net/jQuery applications to full blown microservice architectures fronted in Vue.js. I am a big believer in the best tool for the job and am always willing to adapt and learn something new.
+<br />
+Lastly, while I am comfortable to work remotely having done so for the past year, I am hoping to find a workplace that values a strong team focus and encourages pulling up a chair an working through a tricky problem together.
+
 
 
 ## Experience
@@ -70,8 +75,6 @@ __Lessons:__
 - More accurate view on how long projects take
 - More goal orientated mindset
 - Better self awareness/discipline
-
-I also built a CMS, and a bunch of great tooling to speed up the development process in Golang.
 
 Lastly, I launched [Relapse](https://relapse.nerdy.co.nz "Keeping track of your day 
 just became a cinch") the time tracking application for OSX using __Node.js__, __Electron__, __Vue.js__ and __HTML5 canvas__. 
