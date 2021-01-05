@@ -8,11 +8,12 @@
 ![globe](https://user-images.githubusercontent.com/1089671/75620499-8a5e4780-5bee-11ea-9932-aa7c4b775b90.png)&nbsp;[nerdy.co.nz](https://nerdy.co.nz "NERDY's Website")
 
 ## Summary
-Currently looking to move into a more frontend focused development role, having worked solely in the backend for the past year. I am missing that creative aspect of coding and being able to refresh the page and see progress come to life. 
+Currently looking to move into a more frontend focused development role, having worked solely in the backend for the past year. I am missing that creative aspect of coding and being able to refresh the page and see progress come to life.
 <br>
-I bring 8 years of experience in full-stack applications, ranging from full blown microservice architectures fronted in Vue.js to monolithic .Net/jQuery applications. I am a big believer in the best tool for the job and am always willing to adapt and learn something new.
+I bring 8 years of experience in full-stack applications, ranging from full-blown microservice architectures to monolithic .NET/jQuery applications. I am a big believer in the best tool for the job and am always willing to adapt and learn something new.
 <br>
-Lastly, while I am comfortable to work remotely, having done so for the past year, I am hoping to find a workplace that values a strong team focus and encourages pulling up a chair an working through a tricky problem together.
+Lastly, while I am comfortable working remotely, having done so for the past year, I am hoping to find a workplace that values a strong team focus and encourages pulling up a chair and working through a tricky problem together.
+
 
 
 
